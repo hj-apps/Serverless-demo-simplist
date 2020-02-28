@@ -2,8 +2,8 @@
 module.exports.config = {
   // auth0 setup
   auth0: {
-    domain: 'serverlessqa.auth0.com',
-    clientId: '92uOHMc6ndhp4lElK1UI0AIkuw7jQIlb',
+    domain: 'dev-wy2v41z0.auth0.com',
+    clientId: '7auel4PUG5q9PKRht06I2KqOxbh1b3pC',
     callbackPath: '/callback',
   },
   // api endpoints
