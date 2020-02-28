@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # serverless-demo-simplist
-=======
-# Serverless Form Collection Application
->>>>>>> update readme
 
 Collect and manage form data with serverless tech.
 
