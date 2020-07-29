@@ -24,6 +24,6 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "auth0": "^2.6.0"
+    "auth0": "^2.27.1"
   }
 }
